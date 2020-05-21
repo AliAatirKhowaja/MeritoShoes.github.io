@@ -1,0 +1,27 @@
+li.nav-item:hover{
+    background-color:rgb(4, 1, 49);
+    border-radius: 200px;
+}
+a.dropdown-item:hover{
+    background-color: rgb(4, 1, 49);
+    border-radius: 200px;
+    color: white;
+}
+a.nav-link:hover{
+    color: white !important;
+}
+iframe{
+    border: 4px solid black !important;
+    border-radius: 20px;
+}
+.location{
+    background-color: #99120D !important;
+}
+
+.active {
+    background-color: rgb(4, 1, 49);
+    border-radius: 200px;
+}
+.footer{
+    background-color: rgb(19, 19, 19) !important;
+}
